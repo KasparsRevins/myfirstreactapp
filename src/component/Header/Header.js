@@ -20,6 +20,9 @@ const Header = () => {
         <li class="nav-item">
         <Link to="/Login" class="nav-link">Login</Link>
         </li>
+        <li class="nav-item">
+        <Link to="/Register" class="nav-link">Register</Link>
+        </li>
       </ul>
       <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
